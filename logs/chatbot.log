@@ -1,0 +1,817 @@
+2025-02-25 15:39:13 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-25 15:39:13 - [33mPress CTRL+C to quit[0m
+2025-02-25 15:39:32 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-25 15:39:32 - [33mPress CTRL+C to quit[0m
+2025-02-25 15:45:56 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-25 15:45:56 - [33mPress CTRL+C to quit[0m
+2025-02-25 15:46:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:46:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:46:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:46:21 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:46:21 - [123456] User: I want to go sylhet from dhaka
+[123456] Bot: Hello! It's great to hear that you're planning a trip from Dhaka to Sylhet. I can certainly help you with that. As it's a domestic, one-way flight for one adult, I just need to know the date you're planning to travel. When do you plan to take off?
+
+2025-02-25 15:46:22 - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-02-25 15:48:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:50:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:51:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:51:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:51:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:51:06 - [123456] User: I want to go sylhet from dhaka
+[123456] Bot: Hello there! I'm delighted to help you plan your journey from Dhaka to Sylhet. To make sure I find the best flight for you, could you please let me know the date you're planning to travel?
+
+2025-02-25 15:51:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:51:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:08 - [123456] User: I want to go sylhet from dhaka
+[123456] Bot: Hello! How exciting to be planning a trip from Dhaka to Sylhet - it's such a beautiful place! I can certainly help you book a flight. I just need a little more information from you. Could you please tell me the date you're planning to travel?
+
+2025-02-25 15:53:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:31 - [123456] User: Can you tell me your name?
+[123456] Bot: Hello! I'm an AI assistant here to help you with a variety of topics. I don't have a personal name, but you can call me Assistant. How can I assist you today? If you're interested, we can chat about travel destinations, technology, or any other subject you have in mind!
+
+2025-02-25 15:53:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:53:53 - [123456] User: Please tell me a joke
+[123456] Bot: Sure! Here's a light-hearted joke for you: 
+
+Why don't scientists trust atoms?
+
+Because they make up everything! 
+
+If you'd like to hear another one or discuss something else, feel free to let me know!
+
+2025-02-25 15:54:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:54:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:54:20 - [123456] User: What kind of place is Sylhet
+[123456] Bot: Sylhet is a beautiful region located in the northeastern part of Bangladesh. It's renowned for its lush green tea gardens, rolling hills, and the picturesque countryside. The city of Sylhet is often called the "Land of Two Leaves and a Bud" because of its extensive tea plantations.
+
+Here are a few highlights about Sylhet:
+
+1. **Natural Beauty**: Sylhet is famous for its breathtaking landscapes, including the sprawling tea estates such as the Malnicherra Tea Estate, which is one of the oldest in the subcontinent.
+
+2. **Cultural Richness**: The region has a diverse cultural tapestry with influences from various ethnic communities, including the Khasi, Manipuri, and Tripuri tribes. The Sylheti language, a regional dialect, reflects this rich heritage.
+
+3. **Spiritual Sites**: Sylhet is home to significant spiritual landmarks like the Hazrat Shah Jalal Mazar Sharif, a revered Sufi shrine that attracts pilgrims from all over the country.
+
+4. **Exquisite Cuisine**: Sylheti cuisine is known for its distinctive flavors, largely influenced by its indigenous communities. Dishes often feature fish, especially freshwater fish, with a variety of aromatic spices.
+
+5. **Tourist Attractions**: Besides the tea gardens, Sylhet offers other attractions such as Ratargul Swamp Forest, Lalakhal with its turquoise waters, and the stunning Jaflong Valley near the Meghalaya border.
+
+If you're ever planning to visit Bangladesh, Sylhet would offer a unique blend of natural beauty, rich culture, and a welcoming atmosphere. If you have any other specific questions or need travel tips, feel free to ask!
+
+2025-02-25 15:54:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:54:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:54:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:55:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:55:41 - [123456] User: on april 19, only for me and one way trip
+[123456] Bot: \u274c Flight API Error: 1\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 39.89  
+\U0001f3e2 **Airline**: US-Bangla Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 07:00  
+\U0001f6ec **Arrival Time**: 07:50  
+\U0001f517 **Connecting Airports**: None  
+
+---
+  
+2\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 39.89  
+\U0001f3e2 **Airline**: US-Bangla Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 13:35  
+\U0001f6ec **Arrival Time**: 14:25  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+3\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 39.89  
+\U0001f3e2 **Airline**: US-Bangla Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 16:35  
+\U0001f6ec **Arrival Time**: 17:25  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+4\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 39.89
+\U0001f3e2 **Airline**: US-Bangla Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 19:30  
+\U0001f6ec **Arrival Time**: 20:20  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+5\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 39.89  
+\U0001f3e2 **Airline**: Biman Bangladesh Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 10:50  
+\U0001f6ec **Arrival Time**: 11:50  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+6\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 39.89  
+\U0001f3e2 **Airline**: Biman Bangladesh Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 15:00  
+\U0001f6ec **Arrival Time**: 16:00  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+7\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 39.89  
+\U0001f3e2 **Airline**: Biman Bangladesh Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 18:45  
+\U0001f6ec **Arrival Time**: 19:45  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+8\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 48.2  
+\U0001f3e2 **Airline**: US-Bangla Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 19:30  
+\U0001f6ec **Arrival Time**: 20:20  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+9\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 48.2  
+\U0001f3e2 **Airline**: US-Bangla Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 07:00  
+\U0001f6ec **Arrival Time**: 07:50  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+\U0001f51f
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 48.2  
+\U0001f3e2 **Airline**: US-Bangla Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 13:35  
+\U0001f6ec **Arrival Time**: 14:25  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+1\ufe0f\u20e31\ufe0f\u20e3
+\u2708 **Flight Date**: 2025-04-19  
+\U0001f4b0 **Price (BDT)**: 48.2  
+\U0001f3e2 **Airline**: US-Bangla Airlines  
+\U0001f39f **Cabin Class**: Economy  
+\U0001f552 **Departure Time**: 16:35  
+\U0001f6ec **Arrival Time**: 17:25  
+\U0001f517 **Connecting Airports**: None  
+
+---
+
+\U0001f4cc **Summary:**  
+\U0001f4b0 **Lowest Price (BDT)**: 39.89  
+\u2708\ufe0f **Airline with Lowest Price**: US-Bangla Airlines, Biman Bangladesh Airlines  
+
+---
+
+\u2705 **Selection Prompt:**  
+Please select a flight from the available options. For example: US-Bangla Airlines Departure Time: 16:30.
+
+2025-02-25 15:56:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:56:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:56:08 - [123456] User: What is the cheapest flight?
+[123456] Bot: The cheapest flight available is with US-Bangla Airlines for $39.89, departing on April 19, 2025, at 7:00 AM.
+
+2025-02-25 15:56:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:56:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:57:26 - [123456] User: I want to book this flight
+[123456] Bot: Please select another flight. Reason: Unable to process the service currently.
+
+2025-02-25 15:57:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:57:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:57:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:57:50 - [123456] User: My name is Ibrahim khalil ibrahim@ibos.com 01515619886 A12345 1990-01-01
+[123456] Bot: \U0001f6c2 Passenger 1 details saved successfully: {'title': 'Mr.', 'gender': 'male', 'first_name': 'Ibrahim', 'last_name': 'khalil', 'email': 'ibrahim@ibos.com', 'phone': '01515619886', 'dob': '1990-01-01'}
+
+2025-02-25 15:58:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:58:12 - [123456] User: Please proceed with the booking.
+[123456] Bot: Missing Required Parameters
+
+2025-02-25 15:58:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:58:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 15:58:43 - [123456] User: Can you give me a trip plan to visit this place
+[123456] Bot: It sounds like you're interested in planning a trip to Sylhet! Given its natural beauty, cultural richness, and intriguing attractions, it's a fantastic choice. Here's a potential itinerary for a memorable trip to Sylhet:
+
+**Day 1: Arrival and Exploration of Sylhet City**
+- **Arrival**: Check into your accommodation in Sylhet City.
+- **Hazrat Shah Jalal Mazar Sharif**: Begin your exploration with a visit to this revered Sufi shrine, where you can soak in the spirituality and history.
+- **Sylhet City Center**: Explore local shops and markets to get a taste of Sylheti life. Don’t miss trying some local snacks!
+
+**Day 2: Tea Gardens and Beyond**
+- **Malnicherra Tea Estate**: Start your day with a tour of the oldest tea estate in the region. Enjoy the lush landscapes and learn about tea production.
+- **Hum Hum Waterfall**: For adventure lovers, a trek to the stunning Hum Hum Waterfall in the Lawachara National Park is a must.
+
+**Day 3: Natural Wonders**
+- **Ratargul Swamp Forest**: Spend a serene morning boating through the enchanting swamp forest, a rare freshwater swamp forest in Bangladesh.
+- **Jaflong Valley**: Head to Jaflong for breathtaking views and engage with the local Khasi community. Don’t miss the stone collection activities by the riverside.
+
+**Day 4: Cultural Immersion**
+- **Manipuri Rajbari**: Visit this cultural hub to learn about the arts, crafts, and traditions of the Manipuri community.
+- **Pangthumai Waterfall**: A quick trip to see this picturesque waterfall near the Indian border will be a perfect end to your cultural journey.
+  
+**Travel Tips:**
+- **Best Time to Visit**: October to February, when the weather is cooler and more comfortable.
+- **Transport**: Consider hiring a local guide for excursions outside the city.
+- **Cuisine**: Be open to trying local dishes, especially fish curries which are a staple in Sylheti cuisine.
+
+Let me know if you need further details on accommodations, travel tips, or anything else for your trip!
+
+2025-02-25 16:41:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:42:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:42:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:42:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:42:05 - [123456] User: I want to go sylhet from dhaka
+[123456] Bot: Hi there! I'd be happy to help you plan your journey from Dhaka to Sylhet. It looks like we've got everything we need, except for one thing. Could you please let me know the date you'd like to travel?
+
+2025-02-25 16:42:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:42:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:42:29 - [123456] User: Can you tell me your name?
+[123456] Bot: Hello! I’m your AI assistant, here to help you with any information or assistance you might need. And while I don't have a personal name, you can think of me as your friendly guide through this digital adventure. Is there anything specific you'd like to know about, such as travel tips, technology updates, or maybe some health advice?
+
+2025-02-25 16:42:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:42:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:42:51 - [123456] User: Please tell me a joke
+[123456] Bot: Sure, I'd be happy to lighten the mood with a joke! Here's one for you:
+
+Why don't scientists trust atoms?
+
+Because they make up everything! 
+
+If you have any other requests or topics you're interested in, feel free to let me know!
+
+2025-02-25 16:43:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:43:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:43:20 - [123456] User: What kind of place is Sylhet
+[123456] Bot: Sylhet is a fascinating region located in the northeastern part of Bangladesh. Known for its lush tea gardens, rolling hills, and vibrant culture, Sylhet is a popular destination for both nature lovers and those interested in exploring traditional Bengali landscapes.
+
+Here are a few highlights to give you a sense of what Sylhet has to offer:
+
+1. **Tea Gardens**: Sylhet is famous for its extensive tea plantations, which are among the largest in the world. The scenic beauty of these gardens, especially around areas like Srimangal, offers breathtaking views and opportunities for tranquil walks.
+
+2. **Natural Beauty**: The region is home to several picturesque landscapes such as the Ratargul Swamp Forest, Jaflong's stone collection site with its view of the Khasi hills, and the stunning waterfalls of Madhabkunda.
+
+3. **Cultural Heritage**: Sylhet is steeped in history with cultural sites like Lalakhal, where the Surma River brings a unique blend of colors, and the numerous ancient mosques and shrines, including the significant shrine of Saint Hazrat Shah Jalal.
+
+4. **Local Cuisine and Culture**: The food in Sylhet is as rich and diverse as its landscape. You can taste delightful dishes influenced by local flavors and Bengali traditions.
+
+If you're considering visiting, Sylhet offers a blend of relaxation amidst nature and a deep dive into Bangladesh’s cultural and historical roots. Let me know if you need more detailed information or tips on traveling there!
+
+2025-02-25 16:43:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:43:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:43:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:44:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:44:42 - [123456] User: on april 19, only for me and one way trip
+[123456] Bot: \u274c Flight API Error: 1\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 39.84
+   \U0001f3e2 **Airline**: US-Bangla Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 07:00
+   \U0001f6ec **Arrival Time**: 07:50
+   \U0001f517 **Connecting Airports**: None
+
+2\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 39.84
+   \U0001f3e2 **Airline**: US-Bangla Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 13:35
+   \U0001f6ec **Arrival Time**: 14:25
+   \U0001f517 **Connecting Airports**: None
+
+3\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 39.84
+   \U0001f3e2 **Airline**: US-Bangla Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 16:35
+   \U0001f6ec **Arrival Time**: 17:25
+   \U0001f517 **Connecting Airports**: None
+
+4\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 39.84
+   \U0001f3e2 **Airline**: US-Bangla Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 19:30
+   \U0001f6ec **Arrival Time**: 20:20
+   \U0001f517 **Connecting Airports**: None
+
+5\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 39.84
+   \U0001f3e2 **Airline**: Biman Bangladesh Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 10:50
+   \U0001f6ec **Arrival Time**: 11:50
+   \U0001f517 **Connecting Airports**: None
+
+6\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 39.84
+   \U0001f3e2 **Airline**: Biman Bangladesh Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 15:00
+   \U0001f6ec **Arrival Time**: 16:00
+   \U0001f517 **Connecting Airports**: None
+
+7\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 39.84
+   \U0001f3e2 **Airline**: Biman Bangladesh Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 18:45
+   \U0001f6ec **Arrival Time**: 19:45
+   \U0001f517 **Connecting Airports**: None
+
+8\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 48.14
+   \U0001f3e2 **Airline**: US-Bangla Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 19:30
+   \U0001f6ec **Arrival Time**: 20:20
+   \U0001f517 **Connecting Airports**: None
+
+9\ufe0f\u20e3
+   \u2708 **Flight Date**: April 19, 2025
+   \U0001f4b0 **Price (BDT)**: 48.14
+   \U0001f3e2 **Airline**: US-Bangla Airlines
+   \U0001f39f **Cabin Class**: Economy
+   \U0001f552 **Departure Time**: 07:00
+   \U0001f6ec **Arrival Time**: 07:50
+   \U0001f517 **Connecting Airports**: None
+
+\U0001f51f
+  \u2708 **Flight Date**: April 19, 2025
+  \U0001f4b0 **Price (BDT)**: 48.14
+  \U0001f3e2 **Airline**: US-Bangla Airlines
+  \U0001f39f **Cabin Class**: Economy
+  \U0001f552 **Departure Time**: 13:35
+  \U0001f6ec **Arrival Time**: 14:25
+  \U0001f517 **Connecting Airports**: None
+
+1\ufe0f\u20e31\ufe0f\u20e3
+  \u2708 **Flight Date**: April 19, 2025
+  \U0001f4b0 **Price (BDT)**: 48.14
+  \U0001f3e2 **Airline**: US-Bangla Airlines
+  \U0001f39f **Cabin Class**: Economy
+  \U0001f552 **Departure Time**: 16:35
+  \U0001f6ec **Arrival Time**: 17:25
+  \U0001f517 **Connecting Airports**: None
+
+---
+\U0001f4cc **Summary:**  
+\U0001f4b0 **Lowest Price:** 39.84 BDT  
+\u2708\ufe0f **Airline with Lowest Price:** US-Bangla Airlines & Biman Bangladesh Airlines
+
+---
+
+\u2705 **Selection Prompt:**  
+Please select a flight from the available options. For example: "US-Bangla Airlines Departure Time: 16:30."
+
+2025-02-25 16:45:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:45:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:45:08 - [123456] User: What is the cheapest flight?
+[123456] Bot: The cheapest flight available is with US-Bangla Airlines for $39.84, departing on April 19, 2025 at 7:00 AM. Safe travels!
+
+2025-02-25 16:45:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:45:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:45:43 - [123456] User: I want to book this flight
+[123456] Bot: 
+    \u2708\ufe0f **Flight Selection Successful!**  
+    --------------------------------------  
+    **\U0001f194 Flight ID:** `F1TT00041-0`  
+    **\U0001f50d Tracking ID:** `781174048022659772OOIUO`  
+    **\U0001f511 Flight Key:** `F1TT00041-0`  
+    **\U0001f4b0 Price:** `$39.84`  
+    **\U0001f4c5 Departure Time:** `2025-04-19T07:00:00.000+06:00`  
+    **\U0001f4cd Arrival Time:** `2025-04-19T07:50:00.000+06:00`  
+    **\U0001f6cf Cabin Class:** `Economy`  
+    **\U0001f6eb Carrier:** `BS`  
+    **\U0001f504 Connecting Airports:** `None (Direct Flight)`  
+    \u2705 **Your flight has been successfully selected!** \U0001f389  
+    
+
+2025-02-25 16:46:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:46:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:46:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:46:06 - [123456] User: My name is Ibrahim khalil ibrahim@ibos.com 01515619886 A12345 1990-01-01
+[123456] Bot: \U0001f6c2 Passenger 1 details saved successfully: {'title': 'Mr.', 'gender': 'male', 'first_name': 'Ibrahim', 'last_name': 'khalil', 'email': 'ibrahim@ibos.com', 'phone': '01515619886', 'dob': '1990-01-01'}
+
+2025-02-25 16:46:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:46:28 - [123456] User: Please proceed with the booking.
+[123456] Bot: The passenger quantity provided is not valid. You have submitted data for 1 passenger, but the required passenger data is for 0 individuals.
+
+2025-02-25 16:46:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:47:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 16:47:00 - [123456] User: Can you give me a trip plan to visit this place
+[123456] Bot: Absolutely, I'd love to help you put together a trip plan for visiting Sylhet! Based on our previous conversations, here's a suggested itinerary to make the most of your visit:
+
+**Day 1: Arrival and Exploring Sylhet City**
+- **Arrive in Sylhet**: Start your journey by arriving in Sylhet city.
+- **Visit Shah Jalal Shrine**: Begin by visiting the shrine of Hazrat Shah Jalal, one of the most significant cultural and spiritual sites.
+- **Explore Sylhet City**: Stroll around the city, exploring local markets and enjoying the vibrant street life.
+- **Dinner**: Enjoy a traditional Bengali meal at a local restaurant to get a taste of the regional cuisine.
+
+**Day 2: Tea Gardens and Srimangal**
+- **Morning in Srimangal**: Head to Srimangal, known for its lush tea gardens. Spend your morning walking through the plantations, enjoying the serene environment.
+- **Tea Museum Visit**: Visit the Tea Museum to learn about the history and process of tea production.
+- **Lunch**: Enjoy a meal at a local eatery, perhaps trying some local snacks like "pitha."
+- **Lawachara National Park**: Spend your afternoon exploring Lawachara National Park, which offers rich biodiversity and the chance to see local wildlife.
+
+**Day 3: Natural Landscapes and Relaxation**
+- **Ratargul Swamp Forest**: Take a boat ride through the Ratargul Swamp Forest, a unique freshwater swamp with lush greenery, for a tranquil nature experience.
+- **Jaflong**: Travel to Jaflong, where you can enjoy the breathtaking view of the Khasi hills and the picturesque landscape at the stone collection site.
+- **Dinner and Relaxation**: Return to your accommodation for a relaxed evening, perhaps indulging in more regional dishes.
+
+**Day 4: Exploring Cultural and Historical Sites**
+- **Lalakhal**: Visit Lalakhal for a boat trip on the clear blue waters of the river, surrounded by lush hills.
+- **Visit Additional Shrines and Mosques**: Spend some time visiting other historical sites and mosques in Sylhet.
+
+**Day 5: Departure**
+- **Relaxed Morning**: Enjoy a leisurely morning at your accommodation or revisit any places in the city.
+- **Departure**: Head back home, reflecting on the beautiful experiences you've had in Sylhet.
+
+Let me know if you need more detailed information, suggestions for places to stay, or tips on what to pack!
+
+2025-02-25 17:28:48 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-25 17:28:48 - [33mPress CTRL+C to quit[0m
+2025-02-25 17:28:57 - 127.0.0.1 - - [25/Feb/2025 17:28:57] "GET / HTTP/1.1" 200 -
+2025-02-25 17:28:58 - 127.0.0.1 - - [25/Feb/2025 17:28:58] "GET /init HTTP/1.1" 200 -
+2025-02-25 17:29:02 - 127.0.0.1 - - [25/Feb/2025 17:29:02] "GET / HTTP/1.1" 200 -
+2025-02-25 17:29:02 - 127.0.0.1 - - [25/Feb/2025 17:29:02] "GET /init HTTP/1.1" 200 -
+2025-02-25 17:29:02 - 127.0.0.1 - - [25/Feb/2025 17:29:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-25 17:29:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:29:16 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: hello
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: \U0001f44b Hello! How can I assist you today?
+
+2025-02-25 17:29:16 - 127.0.0.1 - - [25/Feb/2025 17:29:16] "POST /chat HTTP/1.1" 200 -
+2025-02-25 17:29:20 - 127.0.0.1 - - [25/Feb/2025 17:29:20] "GET / HTTP/1.1" 200 -
+2025-02-25 17:29:21 - 127.0.0.1 - - [25/Feb/2025 17:29:21] "GET /init HTTP/1.1" 200 -
+2025-02-25 17:29:21 - 127.0.0.1 - - [25/Feb/2025 17:29:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-25 17:53:43 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-25 17:53:43 - [33mPress CTRL+C to quit[0m
+2025-02-25 17:54:26 - 127.0.0.1 - - [25/Feb/2025 17:54:26] "GET / HTTP/1.1" 200 -
+2025-02-25 17:54:26 - 127.0.0.1 - - [25/Feb/2025 17:54:26] "GET /init HTTP/1.1" 200 -
+2025-02-25 17:54:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:54:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:54:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:54:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:54:50 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: I want to go sylhet from dhaka
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: Absolutely, I'd be happy to assist you with your flight from Dhaka to Sylhet. Just to make sure I find the best options for you, could you please tell me when you're planning to travel?
+
+2025-02-25 17:54:52 - 127.0.0.1 - - [25/Feb/2025 17:54:52] "POST /chat HTTP/1.1" 200 -
+2025-02-25 17:54:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:54:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:54:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:55:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:55:45 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: on april 19, only for me and one way trip
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: \u274c Flight API Error: 1\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 39.84
+- \U0001f3e2 **Airline:** US-Bangla Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 07:00
+- \U0001f6ec **Arrival Time:** 07:50
+- \U0001f517 **Connecting Airports:** None
+
+2\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 39.84
+- \U0001f3e2 **Airline:** US-Bangla Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 13:35
+- \U0001f6ec **Arrival Time:** 14:25
+- \U0001f517 **Connecting Airports:** None
+
+3\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 39.84
+- \U0001f3e2 **Airline:** US-Bangla Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 16:35
+- \U0001f6ec **Arrival Time:** 17:25
+- \U0001f517 **Connecting Airports:** None
+
+4\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 39.84
+- \U0001f3e2 **Airline:** US-Bangla Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 19:30
+- \U0001f6ec **Arrival Time:** 20:20
+- \U0001f517 **Connecting Airports:** None
+
+5\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 39.84
+- \U0001f3e2 **Airline:** Biman Bangladesh Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 10:50
+- \U0001f6ec **Arrival Time:** 11:50
+- \U0001f517 **Connecting Airports:** None
+
+6\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 39.84
+- \U0001f3e2 **Airline:** Biman Bangladesh Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 15:00
+- \U0001f6ec **Arrival Time:** 16:00
+- \U0001f517 **Connecting Airports:** None
+
+7\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 39.84
+- \U0001f3e2 **Airline:** Biman Bangladesh Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 18:45
+- \U0001f6ec **Arrival Time:** 19:45
+- \U0001f517 **Connecting Airports:** None
+
+8\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 48.14
+- \U0001f3e2 **Airline:** US-Bangla Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 19:30
+- \U0001f6ec **Arrival Time:** 20:20
+- \U0001f517 **Connecting Airports:** None
+
+9\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 48.14
+- \U0001f3e2 **Airline:** US-Bangla Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 07:00
+- \U0001f6ec **Arrival Time:** 07:50
+- \U0001f517 **Connecting Airports:** None
+
+\U0001f51f 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 48.14
+- \U0001f3e2 **Airline:** US-Bangla Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 13:35
+- \U0001f6ec **Arrival Time:** 14:25
+- \U0001f517 **Connecting Airports:** None
+
+1\ufe0f\u20e31\ufe0f\u20e3 
+- \u2708\ufe0f **Flight Date:** April 19, 2025
+- \U0001f4b0 **Price:** BDT 48.14
+- \U0001f3e2 **Airline:** US-Bangla Airlines
+- \U0001f39f **Cabin Class:** Economy
+- \U0001f552 **Departure Time:** 16:35
+- \U0001f6ec **Arrival Time:** 17:25
+- \U0001f517 **Connecting Airports:** None
+
+\U0001f4cc **Summary:**
+- \U0001f4b0 **Lowest Price:** BDT 39.84
+- \u2708\ufe0f **Airline with Lowest Price:** US-Bangla Airlines
+
+\u2705 **Selection Prompt:**
+Please select a flight from the available options. For example: US-Bangla Airlines Departure Time: 16:35.
+
+2025-02-25 17:55:45 - 127.0.0.1 - - [25/Feb/2025 17:55:45] "POST /chat HTTP/1.1" 200 -
+2025-02-25 17:55:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:55:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:55:58 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: What is the cheapest flight?
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: The cheapest flight available is with US-Bangla Airlines for $39.84, departing on April 19, 2025, at 07:00 AM. Safe travels! \U0001f6eb
+
+2025-02-25 17:55:58 - 127.0.0.1 - - [25/Feb/2025 17:55:58] "POST /chat HTTP/1.1" 200 -
+2025-02-25 17:56:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:56:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:56:50 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: I want to book this flight
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: 
+    \u2708\ufe0f **Flight Selection Successful!**  
+    --------------------------------------  
+    **\U0001f194 Flight ID:** `F1TT00041-0`  
+    **\U0001f50d Tracking ID:** `7811740484498597727C1CY`  
+    **\U0001f511 Flight Key:** `F1TT00041-0`  
+    **\U0001f4b0 Price:** `$39.84`  
+    **\U0001f4c5 Departure Time:** `2025-04-19T07:00:00.000+06:00`  
+    **\U0001f4cd Arrival Time:** `2025-04-19T07:50:00.000+06:00`  
+    **\U0001f6cf Cabin Class:** `Economy`  
+    **\U0001f6eb Carrier:** `BS`  
+    **\U0001f504 Connecting Airports:** `None (Direct Flight)`  
+    \u2705 **Your flight has been successfully selected!** \U0001f389  
+    
+
+2025-02-25 17:56:51 - 127.0.0.1 - - [25/Feb/2025 17:56:51] "POST /chat HTTP/1.1" 200 -
+2025-02-25 17:56:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:56:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:56:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:56:59 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: My name is Ibrahim khalil ibrahim@ibos.com 01515619886 A12345 1990-01-01
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: \U0001f6c2 Passenger 1 details saved successfully: {'title': 'Mr.', 'gender': 'male', 'first_name': 'Ibrahim', 'last_name': 'khalil', 'email': 'ibrahim@ibos.com', 'phone': '01515619886', 'dob': '1990-01-01'}
+
+2025-02-25 17:56:59 - 127.0.0.1 - - [25/Feb/2025 17:56:59] "POST /chat HTTP/1.1" 200 -
+2025-02-25 17:57:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 17:57:11 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: Please proceed with the booking.
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: Missing Required Parameters
+
+2025-02-25 17:57:11 - 127.0.0.1 - - [25/Feb/2025 17:57:11] "POST /chat HTTP/1.1" 200 -
+2025-02-25 18:03:08 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-25 18:03:08 - [33mPress CTRL+C to quit[0m
+2025-02-25 18:03:32 - 127.0.0.1 - - [25/Feb/2025 18:03:32] "GET / HTTP/1.1" 200 -
+2025-02-25 18:03:32 - 127.0.0.1 - - [25/Feb/2025 18:03:32] "GET /init HTTP/1.1" 200 -
+2025-02-25 18:03:32 - 127.0.0.1 - - [25/Feb/2025 18:03:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-25 18:03:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:03:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:03:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:03:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:03:44 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: I want to go sylhet from dhaka
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: Hello there! I'm glad you're considering a trip from Dhaka to Sylhet - a journey filled with beautiful scenic views. To help me find the perfect flight for you, could you please tell me the date when you would like to travel?
+
+2025-02-25 18:03:45 - 127.0.0.1 - - [25/Feb/2025 18:03:45] "POST /chat HTTP/1.1" 200 -
+2025-02-25 18:03:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:03:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:03:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:04:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:04:29 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: on april 19, only for me and one way trip
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: \u274c Flight API Error: 1\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 39.84 BDT
+\U0001f3e2 Airline: US-Bangla Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 07:00 AM
+\U0001f6ec Arrival Time: 07:50 AM
+\U0001f517 Connecting Airports: None
+
+2\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 39.84 BDT
+\U0001f3e2 Airline: US-Bangla Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 13:35 PM
+\U0001f6ec Arrival Time: 14:25 PM
+\U0001f517 Connecting Airports: None
+
+3\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 39.84 BDT
+\U0001f3e2 Airline: US-Bangla Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 16:35 PM
+\U0001f6ec Arrival Time: 17:25 PM
+\U0001f517 Connecting Airports: None
+
+4\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 39.84 BDT
+\U0001f3e2 Airline: US-Bangla Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 19:30 PM
+\U0001f6ec Arrival Time: 20:20 PM
+\U0001f517 Connecting Airports: None
+
+5\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 39.84 BDT
+\U0001f3e2 Airline: Biman Bangladesh Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 10:50 AM
+\U0001f6ec Arrival Time: 11:50 AM
+\U0001f517 Connecting Airports: None
+
+6\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 39.84 BDT
+\U0001f3e2 Airline: Biman Bangladesh Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 15:00 PM
+\U0001f6ec Arrival Time: 16:00 PM
+\U0001f517 Connecting Airports: None
+
+7\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 39.84 BDT
+\U0001f3e2 Airline: Biman Bangladesh Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 18:45 PM
+\U0001f6ec Arrival Time: 19:45 PM
+\U0001f517 Connecting Airports: None
+
+8\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 48.14 BDT
+\U0001f3e2 Airline: US-Bangla Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 19:30 PM
+\U0001f6ec Arrival Time: 20:20 PM
+\U0001f517 Connecting Airports: None
+
+9\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 48.14 BDT
+\U0001f3e2 Airline: US-Bangla Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 07:00 AM
+\U0001f6ec Arrival Time: 07:50 AM
+\U0001f517 Connecting Airports: None
+
+\U0001f51f
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 48.14 BDT
+\U0001f3e2 Airline: US-Bangla Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 13:35 PM
+\U0001f6ec Arrival Time: 14:25 PM
+\U0001f517 Connecting Airports: None
+
+1\ufe0f\u20e31\ufe0f\u20e3
+\u2708\ufe0f Flight Date: April 19, 2025
+\U0001f4b0 Price: 48.14 BDT
+\U0001f3e2 Airline: US-Bangla Airlines
+\U0001f39f Cabin Class: Economy
+\U0001f552 Departure Time: 16:35 PM
+\U0001f6ec Arrival Time: 17:25 PM
+\U0001f517 Connecting Airports: None
+
+---
+
+\U0001f4cc **Summary:**  
+\U0001f4b0 **Lowest Price:** 39.84 BDT  
+\u2708\ufe0f **Airline with Lowest Price:** US-Bangla Airlines  
+
+---
+
+**Please select a flight from the available options. For example: US-Bangla Airlines Departure Time: 16:35.**
+
+2025-02-25 18:04:29 - 127.0.0.1 - - [25/Feb/2025 18:04:29] "POST /chat HTTP/1.1" 200 -
+2025-02-25 18:05:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:05:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:05:16 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: What is the cheapest flight?
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: "The cheapest flight available is with US-Bangla Airlines for $39.84, departing on April 19, 2025, at 07:00 AM."
+
+2025-02-25 18:05:16 - 127.0.0.1 - - [25/Feb/2025 18:05:16] "POST /chat HTTP/1.1" 200 -
+2025-02-25 18:05:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:05:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:07:49 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: I want to book this flight
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: 
+    \u2708\ufe0f **Flight Selection Successful!**  
+    --------------------------------------  
+    **\U0001f194 Flight ID:** `F1TT00041-0`  
+    **\U0001f50d Tracking ID:** `781174048503259772GDBSF`  
+    **\U0001f511 Flight Key:** `F1TT00041-0`  
+    **\U0001f4b0 Price:** `$39.84`  
+    **\U0001f4c5 Departure Time:** `2025-04-19T07:00:00.000+06:00`  
+    **\U0001f4cd Arrival Time:** `2025-04-19T07:50:00.000+06:00`  
+    **\U0001f6cf Cabin Class:** `Economy`  
+    **\U0001f6eb Carrier:** `BS`  
+    **\U0001f504 Connecting Airports:** `None (Direct Flight)`  
+    \u2705 **Your flight has been successfully selected!** \U0001f389  
+    
+
+2025-02-25 18:07:49 - 127.0.0.1 - - [25/Feb/2025 18:07:49] "POST /chat HTTP/1.1" 200 -
+2025-02-25 18:07:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:07:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:07:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:07:55 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: My name is Ibrahim khalil ibrahim@ibos.com 01515619886 A12345 1990-01-01
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: \U0001f6c2 Passenger 1 details saved successfully: {'title': 'Mr.', 'gender': 'male', 'first_name': 'Ibrahim', 'last_name': 'khalil', 'email': 'ibrahim@ibos.com', 'phone': '01515619886', 'dob': '1990-01-01'}
+
+2025-02-25 18:07:55 - 127.0.0.1 - - [25/Feb/2025 18:07:55] "POST /chat HTTP/1.1" 200 -
+2025-02-25 18:08:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:09:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 18:09:46 - [860c55a0d72ffe8f7d7b8abf7c5c065b] User: Please proceed with the booking.
+[860c55a0d72ffe8f7d7b8abf7c5c065b] Bot: None
+
+2025-02-25 18:09:49 - 127.0.0.1 - - [25/Feb/2025 18:09:49] "POST /chat HTTP/1.1" 200 -

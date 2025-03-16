@@ -1,0 +1,13 @@
+{
+    "passengers": [
+        {
+            "title": "Mr.",
+            "gender": "male",
+            "first_name": "Ibrahim",
+            "last_name": "khalil",
+            "email": "ibrahim@ibos.com",
+            "phone": "01515619886",
+            "dob": "1990-01-01"
+        }
+    ]
+}

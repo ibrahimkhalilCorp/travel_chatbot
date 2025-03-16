@@ -1,0 +1,12 @@
+{
+    "flight_id": "F1TT00041-0",
+    "tracking_id": "781174048503259772GDBSF",
+    "flight_key": "F1TT00041-0",
+    "price": 39.84,
+    "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+    "arrival_departure_time": "2025-04-19T07:50:00.000+06:00",
+    "cabin_class": "Economy",
+    "carrier_operating": "BS",
+    "connecting_airport": [],
+    "booking_tracking_id": "782174048512859772XRGRK"
+}

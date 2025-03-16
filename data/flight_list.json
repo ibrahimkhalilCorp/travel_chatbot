@@ -1,0 +1,2447 @@
+{
+    "status": "success",
+    "search_duration": "2 seconds",
+    "timestamp": "1740485034",
+    "search_complete": "2025-02-25 18:03:54",
+    "tracking_id": "781174048503259772GDBSF",
+    "ftm_partner_id": "78",
+    "partner_id": "78",
+    "partner_name": "Akij B2C",
+    "message": null,
+    "total_fight": 11,
+    "currency": "USD",
+    "resources": {
+        "base_url": {
+            "carrier": "https://gtrs-airlineimages.s3.ap-southeast-1.amazonaws.com/icon",
+            "aircraft": "https://gtrs-airlineimages.s3.ap-southeast-1.amazonaws.com/aircraft"
+        }
+    },
+    "data": [
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-0",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "ECONOMY LIGHT",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-0",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT0H50M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAZI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T07:00:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T07:50:00.000+06:00",
+                            "destination_terminal": "D",
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT0H50M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "AT7",
+                                "name": "AT7",
+                                "picture": "AT7.png"
+                            },
+                            "operating": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "531"
+                            },
+                            "marketing": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "531"
+                            },
+                            "booking_class": {
+                                "brand_id": "1218979",
+                                "brand_title": "ECONOMY LIGHT",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "E",
+                                "meal_code": null,
+                                "seat_available": "8",
+                                "FareBasis": "EDOMO",
+                                "FareRuleKey": "gws-eJxNTrsOwjAM/Jjq9rNJVNjSPCqGkg50CQP//xk4KUhYsu/s8yuEoFRPVR/+bcJ7ik/EfAAVNH+1DRevDmJJA0ULSt4fO8YCJzer16GdKL2LSZMzwMpVT6kb2oh5SaZxrDUU9LPo1CbwI+VutC75iJlKXq2mX4kz7MsP2e4qaw==",
+                                "FareInfoRef": "xkpBGUUqWDKAnI/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 39.84,
+                "base_fare": 30.08,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 39.84,
+                    "base_fare": 30.08,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 39.84,
+                        "base_fare": 30.08,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 28.97,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.21
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 39.84,
+                            "base_fare": 30.08,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 28.97,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.21
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTQ2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE0Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDY5OSwiYmFzZV9mYXJlIjozNTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjQ2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BS",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 39.84,
+            "calendar_total_sell": 39.84,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 39.84,
+            "filter": {
+                "id": "F1TT00041-0",
+                "price": 39.84,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "aircraft": "AT7",
+                "aircraft_name": "AT7",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "morning",
+                "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+                "arrival_timing_slot": "morning",
+                "arrival_departure_time": "2025-04-19T07:50:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504190700zyl202504190750531",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-1",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "ECONOMY LIGHT",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-1",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT0H50M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAbI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T13:35:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T14:25:00.000+06:00",
+                            "destination_terminal": "D",
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT0H50M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "AT7",
+                                "name": "AT7",
+                                "picture": "AT7.png"
+                            },
+                            "operating": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "535"
+                            },
+                            "marketing": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "535"
+                            },
+                            "booking_class": {
+                                "brand_id": "1218979",
+                                "brand_title": "ECONOMY LIGHT",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "E",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "EDOMO",
+                                "FareRuleKey": "gws-eJxNTrsOwjAM/Jjq9rNJVNjSPCqGkg50CQP//xk4KUhYsu/s8yuEoFRPVR/+bcJ7ik/EfAAVNH+1DRevDmJJA0ULSt4fO8YCJzer16GdKL2LSZMzwMpVT6kb2oh5SaZxrDUU9LPo1CbwI+VutC75iJlKXq2mX4kz7MsP2e4qaw==",
+                                "FareInfoRef": "xkpBGUUqWDKAnI/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 39.84,
+                "base_fare": 30.08,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 39.84,
+                    "base_fare": 30.08,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 39.84,
+                        "base_fare": 30.08,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 28.97,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.21
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 39.84,
+                            "base_fare": 30.08,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 28.97,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.21
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTQ2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE0Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDY5OSwiYmFzZV9mYXJlIjozNTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjQ2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BS",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 39.84,
+            "calendar_total_sell": 39.84,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 39.84,
+            "filter": {
+                "id": "F1TT00041-1",
+                "price": 39.84,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "aircraft": "AT7",
+                "aircraft_name": "AT7",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "afternoon",
+                "departure_departure_time": "2025-04-19T13:35:00.000+06:00",
+                "arrival_timing_slot": "afternoon",
+                "arrival_departure_time": "2025-04-19T14:25:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191335zyl202504191425535",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-2",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "ECONOMY LIGHT",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-2",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT0H50M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAdI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T16:35:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T17:25:00.000+06:00",
+                            "destination_terminal": "D",
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT0H50M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "AT7",
+                                "name": "AT7",
+                                "picture": "AT7.png"
+                            },
+                            "operating": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "537"
+                            },
+                            "marketing": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "537"
+                            },
+                            "booking_class": {
+                                "brand_id": "1218979",
+                                "brand_title": "ECONOMY LIGHT",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "E",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "EDOMO",
+                                "FareRuleKey": "gws-eJxNTrsOwjAM/Jjq9rNJVNjSPCqGkg50CQP//xk4KUhYsu/s8yuEoFRPVR/+bcJ7ik/EfAAVNH+1DRevDmJJA0ULSt4fO8YCJzer16GdKL2LSZMzwMpVT6kb2oh5SaZxrDUU9LPo1CbwI+VutC75iJlKXq2mX4kz7MsP2e4qaw==",
+                                "FareInfoRef": "xkpBGUUqWDKAnI/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 39.84,
+                "base_fare": 30.08,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 39.84,
+                    "base_fare": 30.08,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 39.84,
+                        "base_fare": 30.08,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 28.97,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.21
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 39.84,
+                            "base_fare": 30.08,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 28.97,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.21
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTQ2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE0Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDY5OSwiYmFzZV9mYXJlIjozNTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjQ2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BS",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 39.84,
+            "calendar_total_sell": 39.84,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 39.84,
+            "filter": {
+                "id": "F1TT00041-2",
+                "price": 39.84,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "aircraft": "AT7",
+                "aircraft_name": "AT7",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "evening",
+                "departure_departure_time": "2025-04-19T16:35:00.000+06:00",
+                "arrival_timing_slot": "evening",
+                "arrival_departure_time": "2025-04-19T17:25:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191635zyl202504191725537",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-3",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "ECONOMY LIGHT",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-3",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT0H50M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAfI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T19:30:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T20:20:00.000+06:00",
+                            "destination_terminal": "D",
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT0H50M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "AT7",
+                                "name": "AT7",
+                                "picture": "AT7.png"
+                            },
+                            "operating": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "539"
+                            },
+                            "marketing": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "539"
+                            },
+                            "booking_class": {
+                                "brand_id": "1218979",
+                                "brand_title": "ECONOMY LIGHT",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "E",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "EDOMO",
+                                "FareRuleKey": "gws-eJxNTrsOwjAM/Jjq9rNJVNjSPCqGkg50CQP//xk4KUhYsu/s8yuEoFRPVR/+bcJ7ik/EfAAVNH+1DRevDmJJA0ULSt4fO8YCJzer16GdKL2LSZMzwMpVT6kb2oh5SaZxrDUU9LPo1CbwI+VutC75iJlKXq2mX4kz7MsP2e4qaw==",
+                                "FareInfoRef": "xkpBGUUqWDKAnI/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 39.84,
+                "base_fare": 30.08,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 39.84,
+                    "base_fare": 30.08,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 39.84,
+                        "base_fare": 30.08,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 28.97,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.21
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 39.84,
+                            "base_fare": 30.08,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 28.97,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.21
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTQ2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE0Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDY5OSwiYmFzZV9mYXJlIjozNTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjQ2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BS",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 39.84,
+            "calendar_total_sell": 39.84,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 39.84,
+            "filter": {
+                "id": "F1TT00041-3",
+                "price": 39.84,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "aircraft": "AT7",
+                "aircraft_name": "AT7",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "evening",
+                "departure_departure_time": "2025-04-19T19:30:00.000+06:00",
+                "arrival_timing_slot": "evening",
+                "arrival_departure_time": "2025-04-19T20:20:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191930zyl202504192020539",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-4",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "Economy Class",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-4",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT1H0M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAhI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T10:50:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T11:50:00.000+06:00",
+                            "destination_terminal": null,
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT1H00M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "DH8",
+                                "name": "DH8",
+                                "picture": "DH8.png"
+                            },
+                            "operating": {
+                                "carrier": "BG",
+                                "carrier_name": "Biman Bangladesh Airlines",
+                                "carrier_logo": "BG.png",
+                                "flight_number": "601"
+                            },
+                            "marketing": {
+                                "carrier": "BG",
+                                "carrier_name": "Biman Bangladesh Airlines",
+                                "carrier_logo": "BG.png",
+                                "flight_number": "601"
+                            },
+                            "booking_class": {
+                                "brand_id": "1380804",
+                                "brand_title": "Economy Class",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "G",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "GDACFO",
+                                "FareRuleKey": "gws-eJxNT8sOwjAM+5jJ9/S93rqtYyCN7sAEGgf+/zNIWkAkqhXFieOmlDRpR1q79B8dcHAiD9N6QYECg9WGKATAjTcrDVIyI8BzKEPe7yaq/pG3K5EnDhPjb61ucU+hGxeMea8S/J7HCuO0ZaXCWrzksbDiaUM1Z1VkolSyoZwkmv0kgsg+20ZJ4KgojsSA6LajePGvxBQB32I+cynGm+eee+5DUQDbfAOpFT5D",
+                                "FareInfoRef": "xkpBGUUqWDKA5I/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 39.84,
+                "base_fare": 30.08,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 39.84,
+                    "base_fare": 30.08,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 39.84,
+                        "base_fare": 30.08,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 28.97,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.21
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 39.84,
+                            "base_fare": 30.08,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 28.97,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.21
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTQ2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE0Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDY5OSwiYmFzZV9mYXJlIjozNTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjQ2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BG",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 39.84,
+            "calendar_total_sell": 39.84,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 39.84,
+            "filter": {
+                "id": "F1TT00041-4",
+                "price": 39.84,
+                "journey_duration": "PT1H0M",
+                "journey_duration_seconds": 3600,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BG",
+                "carrier_marketing": "BG",
+                "aircraft": "DH8",
+                "aircraft_name": "DH8",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "morning",
+                "departure_departure_time": "2025-04-19T10:50:00.000+06:00",
+                "arrival_timing_slot": "morning",
+                "arrival_departure_time": "2025-04-19T11:50:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191050zyl202504191150601",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-5",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "Economy Class",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-5",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT1H0M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAjI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T15:00:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T16:00:00.000+06:00",
+                            "destination_terminal": null,
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT1H00M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "DH8",
+                                "name": "DH8",
+                                "picture": "DH8.png"
+                            },
+                            "operating": {
+                                "carrier": "BG",
+                                "carrier_name": "Biman Bangladesh Airlines",
+                                "carrier_logo": "BG.png",
+                                "flight_number": "603"
+                            },
+                            "marketing": {
+                                "carrier": "BG",
+                                "carrier_name": "Biman Bangladesh Airlines",
+                                "carrier_logo": "BG.png",
+                                "flight_number": "603"
+                            },
+                            "booking_class": {
+                                "brand_id": "1380804",
+                                "brand_title": "Economy Class",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "G",
+                                "meal_code": null,
+                                "seat_available": "8",
+                                "FareBasis": "GDACFO",
+                                "FareRuleKey": "gws-eJxNT8sOwjAM+5jJ9/S93rqtYyCN7sAEGgf+/zNIWkAkqhXFieOmlDRpR1q79B8dcHAiD9N6QYECg9WGKATAjTcrDVIyI8BzKEPe7yaq/pG3K5EnDhPjb61ucU+hGxeMea8S/J7HCuO0ZaXCWrzksbDiaUM1Z1VkolSyoZwkmv0kgsg+20ZJ4KgojsSA6LajePGvxBQB32I+cynGm+eee+5DUQDbfAOpFT5D",
+                                "FareInfoRef": "xkpBGUUqWDKA5I/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 39.84,
+                "base_fare": 30.08,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 39.84,
+                    "base_fare": 30.08,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 39.84,
+                        "base_fare": 30.08,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 28.97,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.21
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 39.84,
+                            "base_fare": 30.08,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 28.97,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.21
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTQ2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE0Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDY5OSwiYmFzZV9mYXJlIjozNTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjQ2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BG",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 39.84,
+            "calendar_total_sell": 39.84,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 39.84,
+            "filter": {
+                "id": "F1TT00041-5",
+                "price": 39.84,
+                "journey_duration": "PT1H0M",
+                "journey_duration_seconds": 3600,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BG",
+                "carrier_marketing": "BG",
+                "aircraft": "DH8",
+                "aircraft_name": "DH8",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "afternoon",
+                "departure_departure_time": "2025-04-19T15:00:00.000+06:00",
+                "arrival_timing_slot": "evening",
+                "arrival_departure_time": "2025-04-19T16:00:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191500zyl202504191600603",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-6",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "Economy Class",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-6",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT1H0M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAlI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T18:45:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T19:45:00.000+06:00",
+                            "destination_terminal": null,
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT1H00M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "DH8",
+                                "name": "DH8",
+                                "picture": "DH8.png"
+                            },
+                            "operating": {
+                                "carrier": "BG",
+                                "carrier_name": "Biman Bangladesh Airlines",
+                                "carrier_logo": "BG.png",
+                                "flight_number": "605"
+                            },
+                            "marketing": {
+                                "carrier": "BG",
+                                "carrier_name": "Biman Bangladesh Airlines",
+                                "carrier_logo": "BG.png",
+                                "flight_number": "605"
+                            },
+                            "booking_class": {
+                                "brand_id": "1380804",
+                                "brand_title": "Economy Class",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "G",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "GDACFO",
+                                "FareRuleKey": "gws-eJxNT8sOwjAM+5jJ9/S93rqtYyCN7sAEGgf+/zNIWkAkqhXFieOmlDRpR1q79B8dcHAiD9N6QYECg9WGKATAjTcrDVIyI8BzKEPe7yaq/pG3K5EnDhPjb61ucU+hGxeMea8S/J7HCuO0ZaXCWrzksbDiaUM1Z1VkolSyoZwkmv0kgsg+20ZJ4KgojsSA6LajePGvxBQB32I+cynGm+eee+5DUQDbfAOpFT5D",
+                                "FareInfoRef": "xkpBGUUqWDKA5I/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 39.84,
+                "base_fare": 30.08,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 39.84,
+                    "base_fare": 30.08,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 39.84,
+                        "base_fare": 30.08,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 28.97,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.21
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 39.84,
+                            "base_fare": 30.08,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 28.97,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.21
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDg0NS45OSwiYmFzZV9mYXJlIjozNjU5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTQ2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE0Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NDY5OSwiYmFzZV9mYXJlIjozNTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6MzUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo0Njk5LCJiYXNlX2ZhcmUiOjM1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjQ2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BG",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 39.84,
+            "calendar_total_sell": 39.84,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 39.84,
+            "filter": {
+                "id": "F1TT00041-6",
+                "price": 39.84,
+                "journey_duration": "PT1H0M",
+                "journey_duration_seconds": 3600,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BG",
+                "carrier_marketing": "BG",
+                "aircraft": "DH8",
+                "aircraft_name": "DH8",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "evening",
+                "departure_departure_time": "2025-04-19T18:45:00.000+06:00",
+                "arrival_timing_slot": "evening",
+                "arrival_departure_time": "2025-04-19T19:45:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191845zyl202504191945605",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-10",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "ECONOMY SAVER",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-10",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT0H50M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAfI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T19:30:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T20:20:00.000+06:00",
+                            "destination_terminal": "D",
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT0H50M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "AT7",
+                                "name": "AT7",
+                                "picture": "AT7.png"
+                            },
+                            "operating": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "539"
+                            },
+                            "marketing": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "539"
+                            },
+                            "booking_class": {
+                                "brand_id": "1218978",
+                                "brand_title": "ECONOMY SAVER",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "O",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "ODOMO",
+                                "FareRuleKey": "gws-eJxNTrsOwyAM/Jjo9sMCNd0IOFGHBoZmoUP//zNqSCrVkn1nn18xRqEEioT4bxM+U3oh6QEU0PzdnvBBPJwlDXSyomrdK8YC7+5WL0M70fUuZsneABs3OaVuaCPqkk3jWGvo0M+iU5vAj6wPo2XRIymFnK0ml8Qb7Msv4Asqdw==",
+                                "FareInfoRef": "xkpBGUUqWDKAIJ/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 48.14,
+                "base_fare": 38.39,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 48.14,
+                    "base_fare": 38.39,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTg1NS45OSwiYmFzZV9mYXJlIjo0NjY5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 48.14,
+                        "base_fare": 38.39,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 37.19,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.29
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 48.14,
+                            "base_fare": 38.39,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 37.19,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.29
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTg1NS45OSwiYmFzZV9mYXJlIjo0NjY5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6NDUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTU2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE1Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTY5OSwiYmFzZV9mYXJlIjo0NTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6NDUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjU2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BS",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 48.14,
+            "calendar_total_sell": 48.14,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 48.14,
+            "filter": {
+                "id": "F1TT00041-10",
+                "price": 48.14,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "aircraft": "AT7",
+                "aircraft_name": "AT7",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "evening",
+                "departure_departure_time": "2025-04-19T19:30:00.000+06:00",
+                "arrival_timing_slot": "evening",
+                "arrival_departure_time": "2025-04-19T20:20:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191930zyl202504192020539",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-7",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "ECONOMY SAVER",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-7",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT0H50M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAZI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T07:00:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T07:50:00.000+06:00",
+                            "destination_terminal": "D",
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT0H50M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "AT7",
+                                "name": "AT7",
+                                "picture": "AT7.png"
+                            },
+                            "operating": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "531"
+                            },
+                            "marketing": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "531"
+                            },
+                            "booking_class": {
+                                "brand_id": "1218978",
+                                "brand_title": "ECONOMY SAVER",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "O",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "ODOMO",
+                                "FareRuleKey": "gws-eJxNTrsOwyAM/Jjo9sMCNd0IOFGHBoZmoUP//zNqSCrVkn1nn18xRqEEioT4bxM+U3oh6QEU0PzdnvBBPJwlDXSyomrdK8YC7+5WL0M70fUuZsneABs3OaVuaCPqkk3jWGvo0M+iU5vAj6wPo2XRIymFnK0ml8Qb7Msv4Asqdw==",
+                                "FareInfoRef": "xkpBGUUqWDKAIJ/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 48.14,
+                "base_fare": 38.39,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 48.14,
+                    "base_fare": 38.39,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTg1NS45OSwiYmFzZV9mYXJlIjo0NjY5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 48.14,
+                        "base_fare": 38.39,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 37.19,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.29
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 48.14,
+                            "base_fare": 38.39,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 37.19,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.29
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTg1NS45OSwiYmFzZV9mYXJlIjo0NjY5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6NDUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTU2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE1Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTY5OSwiYmFzZV9mYXJlIjo0NTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6NDUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjU2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BS",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 48.14,
+            "calendar_total_sell": 48.14,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 48.14,
+            "filter": {
+                "id": "F1TT00041-7",
+                "price": 48.14,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "aircraft": "AT7",
+                "aircraft_name": "AT7",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "morning",
+                "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+                "arrival_timing_slot": "morning",
+                "arrival_departure_time": "2025-04-19T07:50:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504190700zyl202504190750531",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-8",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "ECONOMY SAVER",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-8",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT0H50M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAbI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T13:35:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T14:25:00.000+06:00",
+                            "destination_terminal": "D",
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT0H50M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "AT7",
+                                "name": "AT7",
+                                "picture": "AT7.png"
+                            },
+                            "operating": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "535"
+                            },
+                            "marketing": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "535"
+                            },
+                            "booking_class": {
+                                "brand_id": "1218978",
+                                "brand_title": "ECONOMY SAVER",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "O",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "ODOMO",
+                                "FareRuleKey": "gws-eJxNTrsOwyAM/Jjo9sMCNd0IOFGHBoZmoUP//zNqSCrVkn1nn18xRqEEioT4bxM+U3oh6QEU0PzdnvBBPJwlDXSyomrdK8YC7+5WL0M70fUuZsneABs3OaVuaCPqkk3jWGvo0M+iU5vAj6wPo2XRIymFnK0ml8Qb7Msv4Asqdw==",
+                                "FareInfoRef": "xkpBGUUqWDKAIJ/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 48.14,
+                "base_fare": 38.39,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 48.14,
+                    "base_fare": 38.39,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTg1NS45OSwiYmFzZV9mYXJlIjo0NjY5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 48.14,
+                        "base_fare": 38.39,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 37.19,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.29
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 48.14,
+                            "base_fare": 38.39,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 37.19,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.29
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTg1NS45OSwiYmFzZV9mYXJlIjo0NjY5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6NDUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTU2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE1Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTY5OSwiYmFzZV9mYXJlIjo0NTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6NDUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjU2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BS",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 48.14,
+            "calendar_total_sell": 48.14,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 48.14,
+            "filter": {
+                "id": "F1TT00041-8",
+                "price": 48.14,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "aircraft": "AT7",
+                "aircraft_name": "AT7",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "afternoon",
+                "departure_departure_time": "2025-04-19T13:35:00.000+06:00",
+                "arrival_timing_slot": "afternoon",
+                "arrival_departure_time": "2025-04-19T14:25:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191335zyl202504191425535",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        },
+        {
+            "tracking_id": "781174048503259772GDBSF",
+            "flight_key": "F1TT00041-9",
+            "journey_type": "OneWay",
+            "result_type": "general",
+            "get_branded_fare": "yes",
+            "hold_possible": "yes",
+            "supplier_title": "Travelport 5BS4 Sandbox BD",
+            "supplier_code": "travelport",
+            "supplier_uid": "F1TT00041",
+            "supplier_partner_code": "travelport-1-00041",
+            "info_message": null,
+            "tp_trace_id": "781174048503259772GDBSF",
+            "Session_Key": null,
+            "FlightTrackingID": null,
+            "brand_title": "ECONOMY SAVER",
+            "flight_group": [
+                {
+                    "group": 1,
+                    "flight_key": "F1TT00041-9",
+                    "no_of_stops_title": "Direct Flight",
+                    "no_of_stops": 0,
+                    "flight_time": "PT0H50M",
+                    "transit_time": null,
+                    "routes": [
+                        {
+                            "air_segment_key": "xkpBGUUqWDKAdI/4KAAAAA==",
+                            "origin": "DAC",
+                            "departure_time": "2025-04-19T16:35:00.000+06:00",
+                            "origin_terminal": "D",
+                            "origin_airport": {
+                                "name": "Hazrat Shahjalal International Airport",
+                                "city": "Dhaka",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "destination": "ZYL",
+                            "arrival_time": "2025-04-19T17:25:00.000+06:00",
+                            "destination_terminal": "D",
+                            "destination_airport": {
+                                "name": "Osmani International Airport",
+                                "city": "Sylhet",
+                                "country": "Bangladesh",
+                                "timezone": "Asia/Dhaka"
+                            },
+                            "flight_date": "2025-04-19",
+                            "flight_time": "PT0H50M",
+                            "distance": "121",
+                            "lay_over": "not-applicable",
+                            "lay_over_date": "not-applicable",
+                            "aircraft": {
+                                "code": "AT7",
+                                "name": "AT7",
+                                "picture": "AT7.png"
+                            },
+                            "operating": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "537"
+                            },
+                            "marketing": {
+                                "carrier": "BS",
+                                "carrier_name": "US-Bangla Airlines",
+                                "carrier_logo": "BS.png",
+                                "flight_number": "537"
+                            },
+                            "booking_class": {
+                                "brand_id": "1218978",
+                                "brand_title": "ECONOMY SAVER",
+                                "cabin_class": "Economy",
+                                "cabin_code": "Economy",
+                                "booking_code": "O",
+                                "meal_code": null,
+                                "seat_available": "9",
+                                "FareBasis": "ODOMO",
+                                "FareRuleKey": "gws-eJxNTrsOwyAM/Jjo9sMCNd0IOFGHBoZmoUP//zNqSCrVkn1nn18xRqEEioT4bxM+U3oh6QEU0PzdnvBBPJwlDXSyomrdK8YC7+5WL0M70fUuZsneABs3OaVuaCPqkk3jWGvo0M+iU5vAj6wPo2XRIymFnK0ml8Qb7Msv4Asqdw==",
+                                "FareInfoRef": "xkpBGUUqWDKAIJ/4KAAAAA=="
+                            },
+                            "baggages": {
+                                "checked": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "checked",
+                                        "pieceCount": null,
+                                        "weight": "20",
+                                        "unit": "kg",
+                                        "title": "20 kg"
+                                    }
+                                },
+                                "carry_on": {
+                                    "ADT": {
+                                        "passenger_type": "ADT",
+                                        "baggage_type": "carry_on",
+                                        "pieceCount": null,
+                                        "weight": "SB",
+                                        "unit": "kg",
+                                        "title": "SB"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "price": {
+                "currency": "USD",
+                "total": 48.14,
+                "base_fare": 38.39,
+                "tax": 9.76,
+                "sell": {
+                    "currency": "USD",
+                    "total": 48.14,
+                    "base_fare": 38.39,
+                    "tax": 9.76
+                },
+                "price_hash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTg1NS45OSwiYmFzZV9mYXJlIjo0NjY5LjI0LCJ0YXgiOjExODYuNzV9LCJzdXBwbGllciI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NSwiY29taXNzaW9uX3R5cGUiOiJnZW5lcmFsIiwiY29taXNzaW9uX3ZhbHVlIjowfSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NX19",
+                "price_breakdown": [
+                    {
+                        "passenger_id": "1",
+                        "supplier_pax_id": "1",
+                        "passenger_type": "ADT",
+                        "primary_ptc": "ADT",
+                        "ptc_title": "Adult",
+                        "passenger_total": 1,
+                        "pax_calculate_type": "yes",
+                        "comission_type": "",
+                        "comission_value": "",
+                        "currency": "USD",
+                        "total": 48.14,
+                        "base_fare": 38.39,
+                        "tax": 9.76,
+                        "ticket_issue_charge": 0,
+                        "total_ticket_issue_charge": 0,
+                        "gross": {
+                            "base_fare": 37.19,
+                            "tax": 9.66,
+                            "discount": 0,
+                            "ait": 0,
+                            "service_charge": 1.29
+                        },
+                        "partner": {
+                            "currency": "USD",
+                            "total": 48.14,
+                            "base_fare": 38.39,
+                            "tax": 9.76,
+                            "gross": {
+                                "base_fare": 37.19,
+                                "tax": 9.66,
+                                "discount": 0,
+                                "ait": 0,
+                                "service_charge": 1.29
+                            }
+                        },
+                        "priceHash": "eyJmbWciOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTg1NS45OSwiYmFzZV9mYXJlIjo0NjY5LjI0LCJ0YXgiOjExODYuNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6NDUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MTU2Ljk5fSwiY29uZmlnIjp7Im1hcmt1cF90eXBlIjpudWxsLCJtYXJrdXBfdGl0bGUiOm51bGwsInJldmVudWUiOjE1Ni45OSwidGlja2V0X2lzc3VlX2NoYXJnZSI6MTAwLCJ0b3RhbF90aWNrZXRfaXNzdWVfY2hhcmdlIjoxMDB9fSwic3VwcGxpZXIiOnsiY3VycmVuY3kiOiJCRFQiLCJ0b3RhbCI6NTY5OSwiYmFzZV9mYXJlIjo0NTI0LCJ0YXgiOjExNzUsImdyb3NzIjp7ImJhc2VfZmFyZSI6NDUyNCwidGF4IjoxMTc1LCJkaXNjb3VudCI6MCwiYWl0IjowLCJzZXJ2aWNlX2NoYXJnZSI6MCwicGVyX3NlZ21lbnRfZGlzY291bnQiOm51bGwsInNlZ21lbnRfZGlzY291bnQiOjB9fSwiZ3Jvc3NfZmFyZSI6eyJjdXJyZW5jeSI6IkJEVCIsInRvdGFsIjo1Njk5LCJiYXNlX2ZhcmUiOjQ1MjQsInRheCI6MTE3NSwiZGlzY291bnQiOjAsImFpdCI6MCwic2VydmljZV9jaGFyZ2UiOjAsInBheWFibGUiOjU2OTl9LCJhcHBsaWNhYmxlX2NvbWlzc2lvbiI6bnVsbH0="
+                    }
+                ]
+            },
+            "get_pax_ptc_data": null,
+            "fare_rules": {
+                "refundable_data": null,
+                "refundable": "partially-refundable",
+                "change_before_departure": "not-available"
+            },
+            "calendar_key": "2025-04-19-2025-04-19",
+            "calendar_flight_date": "2025-04-19",
+            "calendar_arrival_date": "2025-04-19",
+            "calendar_carrier": "BS",
+            "calendar_total_currency": "USD",
+            "calendar_total_price": 48.14,
+            "calendar_total_sell": 48.14,
+            "calendar_supplier_currency": null,
+            "calendar_supplier_amount": null,
+            "calendar_fmg_amount": null,
+            "total_price": 48.14,
+            "filter": {
+                "id": "F1TT00041-9",
+                "price": 48.14,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "aircraft": "AT7",
+                "aircraft_name": "AT7",
+                "cabin_class": "Economy",
+                "connecting_airport": [],
+                "total_segment_count": 1,
+                "no_of_stops": 0,
+                "departure_timing_slot": "evening",
+                "departure_departure_time": "2025-04-19T16:35:00.000+06:00",
+                "arrival_timing_slot": "evening",
+                "arrival_departure_time": "2025-04-19T17:25:00.000+06:00",
+                "refund": "partially-refundable",
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            },
+            "filter_unique_filter_code": "dac202504191635zyl202504191725537",
+            "destination_reach_time": "PT",
+            "destination_reach_timestamp": null
+        }
+    ],
+    "filter_data": {
+        "lowest_price": {
+            "id": "F1TT00041-0",
+            "price": 39.84,
+            "journey_duration": "PT0H50M",
+            "journey_duration_seconds": 3000,
+            "layover_duration": "PT0H0M",
+            "layover_duration_seconds": 0,
+            "carrier_operating": "BS",
+            "carrier_marketing": "BS",
+            "departure_timing_slot": "morning",
+            "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+            "arrival_timing_slot": "morning",
+            "arrival_departure_time": "2025-04-19T07:50:00.000+06:00"
+        },
+        "highest_price": {
+            "id": "F1TT00041-7",
+            "price": 48.14,
+            "journey_duration": "PT0H50M",
+            "journey_duration_seconds": 3000,
+            "layover_duration": "PT0H0M",
+            "layover_duration_seconds": 0,
+            "carrier_operating": "BS",
+            "carrier_marketing": "BS",
+            "departure_timing_slot": "morning",
+            "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+            "arrival_timing_slot": "morning",
+            "arrival_departure_time": "2025-04-19T07:50:00.000+06:00"
+        },
+        "fastest_duration": {
+            "id": "F1TT00041-0",
+            "price": 39.84,
+            "journey_duration": "PT0H50M",
+            "journey_duration_seconds": 3000,
+            "layover_duration": "PT0H0M",
+            "layover_duration_seconds": 0,
+            "carrier_operating": "BS",
+            "carrier_marketing": "BS",
+            "departure_timing_slot": "morning",
+            "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+            "arrival_timing_slot": "morning",
+            "arrival_departure_time": "2025-04-19T07:50:00.000+06:00"
+        },
+        "highest_duration": {
+            "id": "F1TT00041-4",
+            "price": 39.84,
+            "journey_duration": "PT1H0M",
+            "journey_duration_seconds": 3600,
+            "layover_duration": "PT0H0M",
+            "layover_duration_seconds": 0,
+            "carrier_operating": "BG",
+            "carrier_marketing": "BG",
+            "departure_timing_slot": "morning",
+            "departure_departure_time": "2025-04-19T10:50:00.000+06:00",
+            "arrival_timing_slot": "morning",
+            "arrival_departure_time": "2025-04-19T11:50:00.000+06:00"
+        },
+        "lowest_departure_time": {
+            "id": "F1TT00041-0",
+            "price": 39.84,
+            "journey_duration": "PT0H50M",
+            "journey_duration_seconds": 3000,
+            "layover_duration": "PT0H0M",
+            "layover_duration_seconds": 0,
+            "carrier_operating": "BS",
+            "carrier_marketing": "BS",
+            "departure_timing_slot": "morning",
+            "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+            "arrival_timing_slot": "morning",
+            "arrival_departure_time": "2025-04-19T07:50:00.000+06:00"
+        },
+        "lowest_arrival_time": {
+            "id": "F1TT00041-0",
+            "price": 39.84,
+            "journey_duration": "PT0H50M",
+            "journey_duration_seconds": 3000,
+            "layover_duration": "PT0H0M",
+            "layover_duration_seconds": 0,
+            "carrier_operating": "BS",
+            "carrier_marketing": "BS",
+            "departure_timing_slot": "morning",
+            "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+            "arrival_timing_slot": "morning",
+            "arrival_departure_time": "2025-04-19T07:50:00.000+06:00"
+        },
+        "airlines_with_price": [
+            {
+                "id": "F1TT00041-0",
+                "price": 39.84,
+                "journey_duration": "PT0H50M",
+                "journey_duration_seconds": 3000,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BS",
+                "carrier_marketing": "BS",
+                "departure_timing_slot": "morning",
+                "departure_departure_time": "2025-04-19T07:00:00.000+06:00",
+                "arrival_timing_slot": "morning",
+                "arrival_departure_time": "2025-04-19T07:50:00.000+06:00"
+            },
+            {
+                "id": "F1TT00041-4",
+                "price": 39.84,
+                "journey_duration": "PT1H0M",
+                "journey_duration_seconds": 3600,
+                "layover_duration": "PT0H0M",
+                "layover_duration_seconds": 0,
+                "carrier_operating": "BG",
+                "carrier_marketing": "BG",
+                "departure_timing_slot": "morning",
+                "departure_departure_time": "2025-04-19T10:50:00.000+06:00",
+                "arrival_timing_slot": "morning",
+                "arrival_departure_time": "2025-04-19T11:50:00.000+06:00"
+            }
+        ],
+        "take_off": [
+            "morning",
+            "afternoon",
+            "evening"
+        ],
+        "landing_time": [
+            "morning",
+            "afternoon",
+            "evening"
+        ],
+        "carrier": {
+            "operating": [
+                "BG",
+                "BS"
+            ],
+            "marketing": [
+                "BG",
+                "BS"
+            ]
+        },
+        "baggage": [
+            {
+                "baggage_value": "kg",
+                "baggage_unit": "20",
+                "baggage_title": "20 kg"
+            }
+        ],
+        "connecting_airport": null,
+        "no_of_stops": [
+            0
+        ]
+    },
+    "search_parameter": {
+        "journey_type": "OneWay",
+        "segment": [
+            {
+                "departure_airport_type": "AIRPORT",
+                "departure_airport": "DAC",
+                "arrival_airport_type": "AIRPORT",
+                "arrival_airport": "ZYL",
+                "departure_date": "2025-04-19"
+            }
+        ],
+        "travelers_adult": 1,
+        "travelers_child": 0,
+        "travelers_child_age": [],
+        "travelers_infants": 0,
+        "travelers_infants_age": [],
+        "fare_type": null,
+        "fare_option": null,
+        "content_type": null,
+        "ptc_option": null,
+        "agency_ethnic_list": null,
+        "preferred_carrier": [],
+        "non_stop_flight": "any",
+        "baggage_option": "any",
+        "booking_class": "Economy",
+        "supplier_uid": "F1TT00041",
+        "partner_id": "78",
+        "language": "en",
+        "short_ref": "12121212121",
+        "version": null,
+        "team_profile": [
+            {
+                "member_id": "1",
+                "pax_type": "ADT"
+            },
+            {
+                "member_id": "2",
+                "pax_type": "CNN"
+            },
+            {
+                "member_id": "3",
+                "pax_type": "INF"
+            }
+        ]
+    },
+    "search_result_logs_url": "https://temp-logs.innotraveltech.com/flight_logs/781174048503259772GDBSF/search_result.json"
+}

@@ -1,0 +1,10 @@
+{
+    "origin": "dhaka",
+    "destination": "sylhet",
+    "date_of_travel": "2025-04-19",
+    "journey_type": "OneWay",
+    "num_adults": 1,
+    "num_children": 0,
+    "flight_type": "domestic",
+    "return_date": null
+}
